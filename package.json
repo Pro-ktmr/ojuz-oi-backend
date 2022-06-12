@@ -1,0 +1,25 @@
+{
+  "name": "ojuz-oi-backend",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "export": "./main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pro-ktmr/ojuz-oi-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pro-ktmr/ojuz-oi-backend/issues"
+  },
+  "homepage": "https://github.com/Pro-ktmr/ojuz-oi-backend#readme",
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "node-fetch": "^3.2.6"
+  }
+}
